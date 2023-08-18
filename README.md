@@ -1,8 +1,7 @@
-# React + Vite
+# Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie App is a React web application that allows users to search for movies and view information about them. Used TMDB API for fetching movie data.
 
-Currently, two official plugins are available:
+![movie-app1](https://github.com/adnankovacevic/movie-app/assets/77441964/560b61e7-9096-4db1-a76a-2177104179f0)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![movie-app2](https://github.com/adnankovacevic/movie-app/assets/77441964/cefb78ed-5be8-4f5a-b2bb-285e9fd13108)
